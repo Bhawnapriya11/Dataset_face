@@ -1,5 +1,5 @@
-train: ../input/final-dataset_new/train_test/train
-val:   ../input/final-dataset_new/train_test/test
+train: ../input/finalfolder/train_test/train
+val:   ../input/finalfolder/train_test/test
 
 # number of classes
 nc: 1
