@@ -1,0 +1,8 @@
+train: ../input/data-with-yaml/train_test/train
+val: ../input/data-with-yaml/train_test/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['0']
