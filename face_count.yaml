@@ -1,5 +1,5 @@
-train: ../input/finalfolder/train_test/train
-val:   ../input/finalfolder/train_test/test
+train: ../input/folderfinal/train_test/train
+val:   ../input/folderfinal/train_test/test
 
 # number of classes
 nc: 1
